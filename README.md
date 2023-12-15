@@ -1,6 +1,6 @@
 # trick28-passwordGenerator
 
-- [Demo Project](https://katayoon-faraji-web.github.io/trick27-writing-cleaningtext/)
+- [Demo Project](https://katayoon-faraji-web.github.io/trick28-passwordGenerator//)
 
 - Developed by katayoon faraji
 
